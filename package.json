@@ -1,0 +1,8 @@
+{
+	"name":"MongoDB-NodeJs",
+	"version":"0.0.1",
+	"description":"Get Started Sample App with MongoDB",
+	"dependencies" : {
+		"mongodb":"~2.0"
+	}
+}
